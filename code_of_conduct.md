@@ -1,8 +1,8 @@
 # Code of Conduct
 
-1. Foster a safe and respectful environment** for all participants.
+1. **Foster a safe and respectful environment** for all participants.
 
-   1. Respect includes acknowledging other people’s boundaries.** If they ask for you to stop a conversation about a topic, you must respect their request. We place very high value on people’s conversational boundaries, which means that it’s highly important to halt, pause or redirect conversations on request.
+   1. **Respect includes acknowledging other people’s boundaries.** If they ask for you to stop a conversation about a topic, you must respect their request. We place very high value on people’s conversational boundaries, which means that it’s highly important to halt, pause or redirect conversations on request.
 
 2. **Treat everyone with respect.** Everyone’s ideas, skills, and contributions have value. 
 
