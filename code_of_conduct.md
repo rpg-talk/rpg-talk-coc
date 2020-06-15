@@ -23,7 +23,7 @@
 
 7. **Don’t troll,** harass or publicly shame others.
 
-8. **Don’t encourage or engage in piracy.** Discord's anti-piracy rules mean the server is at risk from its member's behavior. For simplicity this means...
+8. **Don’t encourage or engage in piracy.** Discord's anti-piracy rules mean the server is at risk from its members' behavior. For simplicity this means...
 
    1. Do post: storefronts, creator webpages, creator posts sharing their content (on blogs, reddit, twitter or forums, etc)
    2. Do not post: Anonymous archive hosting, chan boards, direct links to PDFs, directly upload PDFs
