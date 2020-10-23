@@ -11,12 +11,15 @@
 
 3. **Discuss, don't argue.** Appreciate varied opinions and communicate in an attempt to understand. Avoid making blanket statements. Do not argue just for the sake of arguing or winning an argument.
 
-4. Follow our **rules on promotion,** here: https://rpg-talk.com/rules_for_promotion.pdf In summary: 
+4. Follow our **rules on promotion,** here: https://rpg-talk.com/rules_for_self_promotion.pdf In summary: 
 
-   1. Keep your promotion out of #general. 
-   2. Limit your promotions to no more than once per week.
-   3. Provide links or large promotional posts in only a single channel
-
+   1. We encourage sharing items of interest that are not your own in an appropriate channel(which can be #general).
+   2. RPG Talk is a community for talking about RPGs rather than a billboard.
+   3. Do not self-promote in #general.
+   4. Self-promote in the most applicable channel, usually #crowdfunding_and_promotion. 
+   5. Do not self-promote more than once per week.
+   6. Do not self-promote the same product more than once
+   
 5. **Respect people's game choices and experiences.** Making accusations of people playing badly or incorrectly isn't helpful.
 
 6. **Work to maintain a mutual understanding** rather than making assumptions. Not everyone has the same context. Be careful not to treat your opinions or experiences as superior to others’.

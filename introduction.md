@@ -15,4 +15,8 @@ We have **numerous channels that are hidden when you first join to keep your cha
 
 * If you'd like to **join a channel** titled "dungeons_and_dragons", type `/join dungeons_and_dragons`
 
-Now that you're here, please **take a moment to read our Code of Conduct**:
+## Adding pronouns to your nickname
+
+Adding pronouns to your nickname isn't a requirement but is is encouraged. To do this, click the server name "RPG Talk" in the left pane, select "Change Nickname." Then add whatever pronouns you'd like. Most people put them in parenthesis.
+
+Now that you're here, please **take a moment to read our Code of Conduct**

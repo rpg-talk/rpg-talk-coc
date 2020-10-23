@@ -1,3 +1,11 @@
+# Discord Etiquette
+
+Discord is a public place and there are certain expectations for users when communicating here.
+
+* Discord is for discussion. You can expect that other users will read, reply and provide feedback to what you say.
+* Don't publicly send messages to blocked users. Blocked messages are one-way and this just promotes hostility.
+* Try to complete your thought in a single message. Channel activity can mean that your message gets awkwardly segmented if you send your thoughts in fragments.
+
 # Moderator Action
 
 Please either message a moderator or use the `@Moderator` tag to bring a conversation to a moderator’s attention if any user is making you uncomfortable or may be violating our Code of Conduct. Try to only use the `@Moderator` tag for urgent matters that need to be dealt with immediately. ‘Calling out' or conducting witch hunts against other users is not acceptable.
